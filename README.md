@@ -1,6 +1,6 @@
 # Shop App
 
-A new Flutter application.
+shop app is a mobile application for shoping online
 
 ## Getting Started ...
 
